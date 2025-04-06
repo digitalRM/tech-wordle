@@ -2,6 +2,8 @@
 
 A tech-themed version of the popular word-guessing game Wordle, featuring technology-related terms, programming concepts, and tech company names.
 
+![Tech Wordle](https://github.com/user-attachments/assets/923245e0-4691-4ca4-978c-f9318ec28e35)
+
 ## Getting Started
 
 ### Prerequisites
@@ -14,7 +16,7 @@ A tech-themed version of the popular word-guessing game Wordle, featuring techno
 1. Clone the repository:
 
 ```bash
-git clone
+git clone https://github.com/digitalRM/tech-wordle.git
 cd techwordle
 ```
 
